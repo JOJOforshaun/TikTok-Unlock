@@ -1,3 +1,6 @@
+#!name=TikTok-TW
+#!desc=解锁TikTok台湾
+
 [URL Rewrite]
 
 (?<=_region=)CN(?=&) TW 307
